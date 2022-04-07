@@ -1,3 +1,4 @@
 1.create file simplenn-br.txt in nn-br
 2.checkout in master and changed second punkt 
-3.then I'm going in nn-br again and add 3-rd punkt
+3.then I'm going in nn-br again and add 3-rd pun
+4. changed in terminal and push in github
